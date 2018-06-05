@@ -21,7 +21,7 @@ class SendMail(object):
                 Logger.info('receivers=[%s], subject=[%s], content=[%s]' % (receivers, subject, content))
                 return
 
-            url = 'http://notice.ops.m.com/send_mail'
+            url = 'http://fuck.you.com/send_mail'
             a_dict = {
                 'receiver': receivers,
                 'subject': subject,
